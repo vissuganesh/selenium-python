@@ -1,0 +1,181 @@
+1641576443151	geckodriver	INFO	Listening on 127.0.0.1:55810
+1641576443291	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55811" "-no-remote" "-profile" "C:\\Users\\GANESH\\AppData\\Local\\Temp\\rust_mozprofiles0Gy7G"
+1641576785256	geckodriver	INFO	Listening on 127.0.0.1:56088
+1641576785684	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56089" "-no-remote" "-profile" "C:\\Users\\GANESH\\AppData\\Local\\Temp\\rust_mozprofilezoaeiA"
+1641576790083	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GANESH\\AppData\\Local\\Temp\\rust_mozprofilezoaeiA\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:56089/devtools/browser/7f88de7b-dcc9-48cb-88b8-3340a09d94f3
+1641576815485	Marionette	INFO	Listening on port 56094
+1641576817682	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641576877627	Marionette	INFO	Stopped listening on port 56094
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 1724, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1641576931719	geckodriver	INFO	Listening on 127.0.0.1:56196
+1641576932223	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56197" "-no-remote" "-profile" "C:\\Users\\GANESH\\AppData\\Local\\Temp\\rust_mozprofilef7l8dO"
+1641576936250	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GANESH\\AppData\\Local\\Temp\\rust_mozprofilef7l8dO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56197/devtools/browser/9478e2bd-ff81-4454-99e4-fd303d391e2f
+1641576944357	Marionette	INFO	Listening on port 56201
+1641576944970	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641576998214	Marionette	INFO	Stopped listening on port 56201
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1641577011315	geckodriver	INFO	Listening on 127.0.0.1:56265
+1641577011344	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56266" "-no-remote" "-profile" "C:\\Users\\GANESH\\AppData\\Local\\Temp\\rust_mozprofileNorEUR"
+1641577011999	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GANESH\\AppData\\Local\\Temp\\rust_mozprofileNorEUR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56266/devtools/browser/7faf8076-a58b-4df5-bc05-3607d5c702c9
+1641577018182	Marionette	INFO	Listening on port 56269
+1641577018855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641577419010	Marionette	INFO	Stopped listening on port 56269
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 14456, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1577353347	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GANESH\\AppData\\Local\\Temp\\rust_mozprofilelD5dru\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:56380/devtools/browser/9b2928c4-3cc5-45a8-a31b-ab8e26b4bea6
+1641577365564	Marionette	INFO	Listening on port 56383
+1641577368055	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641577426154	Marionette	INFO	Stopped listening on port 56383
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56473" "-no-remote" "-profile" "C:\\Users\\GANESH\\AppData\\Local\\Temp\\rust_mozprofileCO0iPn"
+1641577420573	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GANESH\\AppData\\Local\\Temp\\rust_mozprofileCO0iPn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56473/devtools/browser/8bd48f3f-3e1e-4a33-931c-6e660431e98a
+1641577431807	Marionette	INFO	Listening on port 56477
+1641577432324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641577579159	Marionette	INFO	Stopped listening on port 56477
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+mozprofileTfeLRz"
+1641577527574	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GANESH\\AppData\\Local\\Temp\\rust_mozprofileTfeLRz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56585/devtools/browser/49526018-79e1-42d6-90f5-76597f4d8890
+1641577538378	Marionette	INFO	Listening on port 56588
+1641577539408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641577582906	Marionette	INFO	Stopped listening on port 56588
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1641577612111	geckodriver	INFO	Listening on 127.0.0.1:56660
+1641577612454	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56661" "-no-remote" "-profile" "C:\\Users\\GANESH\\AppData\\Local\\Temp\\rust_mozprofilePSpPyc"
+1641577613857	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GANESH\\AppData\\Local\\Temp\\rust_mozprofilePSpPyc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56661/devtools/browser/ebfef3f1-bee7-4fa9-afa7-b3aadb3f3594
+1641577620572	Marionette	INFO	Listening on port 56664
+1641577621125	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641577642238	Marionette	INFO	Stopped listening on port 56664
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1641577768957	geckodriver	INFO	Listening on 127.0.0.1:56821
+1641577769517	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56822" "-no-remote" "-profile" "C:\\Users\\GANESH\\AppData\\Local\\Temp\\rust_mozprofileWiSl4C"
+1641577770409	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GANESH\\AppData\\Local\\Temp\\rust_mozprofileWiSl4C\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56822/devtools/browser/cb5cc735-5c5b-427c-b3bf-f4e6ad4acddc
+1641577779078	Marionette	INFO	Listening on port 56825
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1641577785800	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641578135224	Marionette	INFO	Stopped listening on port 56825
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56905" "-no-remote" "-profile" "C:\\Users\\GANESH\\AppData\\Local\\Temp\\rust_mozprofilesb1hba"
+1641577833028	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GANESH\\AppData\\Local\\Temp\\rust_mozprofilesb1hba\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:56905/devtools/browser/ab0b573f-1be1-4a60-99c0-2e91c37307ba
+1641577852376	Marionette	INFO	Listening on port 56909
+1641577854412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641578099109	Marionette	INFO	Stopped listening on port 56909
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "57002" "-no-remote" "-profile" "C:\\Users\\GANESH\\AppData\\Local\\Temp\\rust_mozprofilevxhJHo"
+1641577935556	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GANESH\\AppData\\Local\\Temp\\rust_mozprofilevxhJHo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57002/devtools/browser/adf64f9f-7b22-4bb2-a188-1c5a838bdbbf
+1641577949798	Marionette	INFO	Listening on port 57007
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1641577954715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641578039453	Marionette	INFO	Stopped listening on port 57007
+[Parent 904, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641736716428	geckodriver	INFO	Listening on 127.0.0.1:53273
+1641736716666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53274" "-no-remote" "-profile" "C:\\Users\\GANESH\\AppData\\Local\\Temp\\rust_mozprofile2U1xUp"
+1641736726762	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GANESH\\AppData\\Local\\Temp\\rust_mozprofile2U1xUp\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:53274/devtools/browser/0ba161bb-d4fc-4143-8da4-a4b4212961bb
+1641736775021	Marionette	INFO	Listening on port 53279
+1641736775803	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641736815248	Marionette	INFO	Stopped listening on port 53279
+1736801908	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53480" "-no-remote" "-profile" "C:\\Users\\GANESH\\AppData\\Local\\Temp\\rust_mozprofileZs6Mpo"
+1641736805141	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GANESH\\AppData\\Local\\Temp\\rust_mozprofileZs6Mpo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53480/devtools/browser/d369e846-82b9-407d-8259-e84f14717866
+1641736823945	Marionette	INFO	Listening on port 53508
+1641736826343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641736862528	Marionette	INFO	Stopped listening on port 53508
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 12796, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1641736922955	geckodriver	INFO	Listening on 127.0.0.1:53665
+1641736923376	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53666" "-no-remote" "-profile" "C:\\Users\\GANESH\\AppData\\Local\\Temp\\rust_mozprofileBDD2DP"
+1641736926209	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GANESH\\AppData\\Local\\Temp\\rust_mozprofileBDD2DP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53666/devtools/browser/78146706-f09e-4c07-b732-a7fb00e0b3b4
+1641736935682	Marionette	INFO	Listening on port 53670
+1641736936430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1641736962939	Marionette	INFO	Stopped listening on port 53670
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1641736967341	geckodriver	INFO	Listening on 127.0.0.1:53750
+1641736967677	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53751" "-no-remote" "-profile" "C:\\Users\\GANESH\\AppData\\Local\\Temp\\rust_mozprofile7kpslO"
+1641736969141	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GANESH\\AppData\\Local\\Temp\\rust_mozprofile7kpslO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53751/devtools/browser/087d7b51-a2aa-45c1-bdb1-82c7f11d4db9
+1641736975012	Marionette	INFO	Listening on port 53754
+1641736976070	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641738541223	Marionette	INFO	Stopped listening on port 53754
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39015B,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39014E,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+1641740182430	geckodriver	INFO	Listening on 127.0.0.1:49508
+1641740182965	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49509" "-no-remote" "-profile" "C:\\Users\\GANESH\\AppData\\Local\\Temp\\rust_mozprofileih9xAX"
+1641740194547	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GANESH\\AppData\\Local\\Temp\\rust_mozprofileih9xAX\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:49509/devtools/browser/7092516e-adf4-482e-ba98-5193c388e1b4
+1641740234007	Marionette	INFO	Listening on port 49513
+1641740234602	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641740252327	Marionette	INFO	Stopped listening on port 49513
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.Dw7LtSMsqzQ.O/ck=xjs.s.rrUpV9yUe6g.L.F4.O/am=MmAEAGADAXB3BgIwAwEAAAAAABwkIPBuAAKAAKhGQAKMuRBAAgAAMBYCABICADgDEgKIHCAAAADAR_QB4PwBAIxgCRcAAAAAAAAQwJYgQwUSAQFAAAAAAIBYTVQ98yIAAAI/d=1/exm=Eox39d,HYSCof,ILbBec,JKoKVe,Tia57b,TtcOte,ZgGg9b,attn,cdos,cr,csi,d,dpf,hsm,jsa,kHVSUb,pHXghd,tIj4fb,w4UyN,wPVhqc,zbML3c/esmo=1/ed=1/dg=2/rs=ACT90oH7U2aj6n8_fFajxDD5TPAnKQEMIw/ee=uY49fb:COQbmf;yxTchf:KUM7Z;qddgKe:x4FYXe;wR5FRb:TtcOte;iFQyKf:QIhFr;dIoSBb:ZgGg9b;eBAeSb:Ck63tb;g8nkx:U4MzKc;wQlYve:aLUfP;kbAm9d:MkHyGd;F9mqte:UoRcbe;sTsDMc:kHVSUb;vfVwPd:OXTqFb;dtl0hd:lLQWFe;q92ire:wPVhqc;pXdRYb:JKoKVe;KpRAue:Tia57b;EVNhjf:pw70Gc;nAFL3:s39S4;LQlyHd:KJbvFf;aZ61od:arTwJ;JXS8fb:Qj0suc;rQSrae:C6D5Fc;qavrXe:zQzcXe;pNsl2d:j9Yuyc;UDrY1c:eps46d;nKl0s:xxrckd;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;imqimf:jKGL2e;KQzWid:mB4wNe;Np8Qkd:Dpx6qc;BjwMce:cXX2Wb;oGtAuc:sOXFj;whEZac:iuHkw;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;jVtPve:wQ95P;R4IIIb:QWfeKf;xbe2wc:wbTLEd;tosKvd:ZCqP3;NSEoX:lazG7b;kCQyJ:ueyPK;oSUNyd:fTfGO;SJsSc:H1GVub;NPKaK:PVlQOd;zOsCQe:Ko78Df;WCEKNd:I46Hvd;LBgRLc:XVMNvd;TxfV6d:YORN0b;GleZL:J1A7Od;qaS3gd:yiLg6e;VGRfx:VFqbr;aAJE9c:WHW6Ef;BgS6mb:fidj5d;z97YGf:oug9te;CxXAWb:YyRLvc;Pguwyb:Xm4ZCd;VN6jIc:ddQyuf;SLtqO:Kh1xYe;WDGyFe:jcVOxd;DULqB:RKfG5c;gaub4:TN6bMe;DpcR3d:zL72xf;hjRo6e:F62sG;w9w86d:dt4g2b;lkq0A:Z0MWEf;eHDfl:ofjVkb;SNUn3:x8cHvb;LEikZe:byfTOb,lsjVmc;io8t5d:sgY6Zb;j7137d:KG2eXe;Oj465e:KG2eXe;sP4Vbe:VwDzFe;kMFpHd:blwjVc/m=ANyn1,Ah7cLd,Bpl55c,CCowhf,DFfvp,E19wJb,EkevXb,GU4Gab,GjAMtf,K6HGfd,L1AAkb,M0hWhd,MeIiV,TSZEqd,UzbKLd,WOJjZ,Wo3n8,aLUfP,aa,abd,async,bgd,d2p3q,d5EhJe,dvl,fiAufb,foot,jWdabd,kQvlef,kyn,lli,mu,pgCXqb,sYEX8b,sb_wiz,sf,tl,u9YDDf,vqHyhf,yBi4o?xjs=s2, line 587: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 5260, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641744148900	geckodriver	INFO	Listening on 127.0.0.1:60508
+1641744149396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60509" "-no-remote" "-profile" "C:\\Users\\GANESH\\AppData\\Local\\Temp\\rust_mozprofileG2p6Pd"
+1641744157909	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GANESH\\AppData\\Local\\Temp\\rust_mozprofileG2p6Pd\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:60509/devtools/browser/98751f72-dd10-402f-a399-d9adb3fd7f2a
+1641744188441	Marionette	INFO	Listening on port 60513
+1641744189029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641744212602	Marionette	INFO	Stopped listening on port 60513
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
